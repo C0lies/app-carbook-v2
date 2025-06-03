@@ -1,0 +1,53 @@
+{
+    "common": {
+        "save": "Save",
+        "cancel": "Cancel",
+        "edit": "Edit",
+        "delete": "Delete",
+        "loading": "Loading..."
+    },
+    "auth": {
+        "login": "Login",
+        "signup": "Sign up",
+        "forgotPassword": "Forgot Password?",
+        "email": "Email",
+        "password": "Password",
+        "confirmPassword": "Confirm Password",
+        "invalidCredentials": "Invalid email or password",
+        "haveAccount": "Already have an account? Login",
+        "dontHaveAccount": "Don't have an account? Sign up",
+        "resetPassword": "Reset Password",
+        "backToLogin": "Back to Login",
+        "welcomeBack": "Welcome Back!",
+        "pleaseLogin": "Please login to your account",
+        "loginError": "An error occurred during login"
+    },
+    "profile": {
+        "title": "Profile",
+        "editProfile": "Edit Profile",
+        "preferences": "Preferences",
+        "settings": "Settings",
+        "logout": "Logout"
+    },
+    "preferences": {
+        "title": "Preferences",
+        "pushNotifications": "Push Notifications",
+        "darkMode": "Dark Mode",
+        "language": "Language"
+    },
+    "settings": {
+        "title": "Settings",
+        "notifications": "Notifications",
+        "security": "Security",
+        "pushNotifications": "Push Notifications",
+        "emailNotifications": "Email Notifications",
+        "changePassword": "Change Password",
+        "enable2FA": "Enable Two-Factor Auth",
+        "lastLogin": "Last Login"
+    },
+    "tabs": {
+        "home": "Home",
+        "profile": "Profile",
+        "explore": "Explore"
+    }
+}

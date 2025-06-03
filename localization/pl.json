@@ -1,0 +1,53 @@
+{
+    "common": {
+        "save": "Zapisz",
+        "cancel": "Anuluj",
+        "edit": "Edytuj",
+        "delete": "Usuń",
+        "loading": "Ładowanie..."
+    },
+    "auth": {
+        "login": "Zaloguj się",
+        "signup": "Zarejestruj się",
+        "forgotPassword": "Zapomniałeś hasła?",
+        "email": "Email",
+        "password": "Hasło",
+        "confirmPassword": "Potwierdź hasło",
+        "invalidCredentials": "Nieprawidłowy email lub hasło",
+        "haveAccount": "Masz już konto? Zaloguj się",
+        "dontHaveAccount": "Nie masz konta? Zarejestruj się",
+        "resetPassword": "Zresetuj hasło",
+        "backToLogin": "Powrót do logowania",
+        "welcomeBack": "Witaj ponownie!",
+        "pleaseLogin": "Zaloguj się do swojego konta",
+        "loginError": "Wystąpił błąd podczas logowania"
+    },
+    "profile": {
+        "title": "Profil",
+        "editProfile": "Edytuj profil",
+        "preferences": "Preferencje",
+        "settings": "Ustawienia",
+        "logout": "Wyloguj się"
+    },
+    "preferences": {
+        "title": "Preferencje",
+        "pushNotifications": "Powiadomienia push",
+        "darkMode": "Tryb ciemny",
+        "language": "Język"
+    },
+    "settings": {
+        "title": "Ustawienia",
+        "notifications": "Powiadomienia",
+        "security": "Bezpieczeństwo",
+        "pushNotifications": "Powiadomienia push",
+        "emailNotifications": "Powiadomienia email",
+        "changePassword": "Zmień hasło",
+        "enable2FA": "Włącz autoryzację dwuetapową",
+        "lastLogin": "Ostatnie logowanie"
+    },
+    "tabs": {
+        "home": "Główna",
+        "profile": "Profil",
+        "explore": "Przeglądaj"
+    }
+}
