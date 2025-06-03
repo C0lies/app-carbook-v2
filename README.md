@@ -76,5 +76,4 @@ Contributions, issues, and feature requests are welcome! Feel free to check [iss
 
 ## 👨‍💻 Author
 
-Your Name
 - GitHub: [@C0lies](https://github.com/C0lies)
