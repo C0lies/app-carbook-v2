@@ -1,50 +1,80 @@
-# Welcome to your Expo app 👋
+# 🚗 CarBook App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+A modern mobile application for managing your vehicles, tracking maintenance, and keeping your car-related documents in one place. Built with React Native and Expo.
 
-## Get started
+## 🌟 Features
 
-1. Install dependencies
+- 👤 User authentication and profile management # TODO
+- 🌓 Dark/Light theme support
+- 🌍 Multilingual support (English/Polish)
+- 🔔 Push notifications # TODO
+- 🚙 Vehicle management # TODO
+- 📱 Cross-platform (iOS & Android & WEB) # TODO
+- 🔐 Secure data storage
 
+## 🛠️ Technologies
+
+- [React Native](https://reactnative.dev/) - Mobile framework
+- [Expo](https://expo.dev/) - Development platform
+- [TypeScript](https://www.typescriptlang.org/) - Programming language
+- [Expo Router](https://docs.expo.dev/router/introduction/) - File-based routing
+- [Zustand](https://zustand-demo.pmnd.rs/) - State management
+- [React Hook Form](https://react-hook-form.com/) - Form handling
+- [i18next](https://www.i18next.com/) - Internationalization
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Node.js 16+ installed
+- npm or yarn package manager
+- Expo CLI (`npm install -g expo-cli`)
+- iOS Simulator or Android Emulator (optional)
+
+### Installation
+
+1. Clone the repository
+   ```bash
+   git clone https://github.com/yourusername/carbook-app.git
+   cd carbook-app
+   ```
+
+2. Install dependencies
    ```bash
    npm install
    ```
 
-2. Start the app
-
+3. Start the development server
    ```bash
    npx expo start
    ```
 
-In the output, you'll find options to open the app in a
+## 📱 Running the App
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+- Press `a` - to open on Android emulator
+- Press `i` - to open on iOS simulator
+- Scan QR code with Expo Go app on your device
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## 🏗️ Project Structure
 
-## Get a fresh project
+- `/app` - Main application screens and navigation
+- `/components` - Reusable UI components
+- `/modules` - Feature-specific modules (auth, profile, vehicles)
+- `/hooks` - Custom React hooks
+- `/services` - API and service integrations
+- `/utils` - Helper functions and utilities
+- `/localization` - Language files and translations
+- `/constants` - Global constants and theme configs
 
-When you're ready, run:
+## 📄 License
 
-```bash
-npm run reset-project
-```
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+## 🤝 Contributing
 
-## Learn more
+Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/yourusername/carbook-app/issues).
 
-To learn more about developing your project with Expo, look at the following resources:
+## 👨‍💻 Author
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Your Name
+- GitHub: [@C0lies](https://github.com/C0lies)
